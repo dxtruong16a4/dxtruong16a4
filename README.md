@@ -1,1 +1,1 @@
-## Xin chào 👋 — mình là [Đỗ Xuân Trường], [Sinh viên]. Mình làm việc với [Python, C++] và quan tâm đến [trí tuệ nhân tạo].
+## Xin chào — mình là Đỗ Xuân Trường, Sinh viên. Mình làm việc với Python, C++ và quan tâm đến trí tuệ nhân tạo.
