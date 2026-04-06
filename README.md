@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 Tôi thích xây dựng các công cụ nhỏ cho những thứ mình dễ quên.  
-Hiện đang phát triển một hệ thống lưu lịch sử anime/manga với hỗ trợ nhiều tên và nhiều ngôn ngữ.
 
 Quan tâm đến:
 - Web development
